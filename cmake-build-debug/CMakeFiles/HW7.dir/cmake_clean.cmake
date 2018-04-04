@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/HW7.dir/main.cpp.o"
+  "CMakeFiles/HW7.dir/main.cpp.obj"
   "HW7.pdb"
-  "HW7"
+  "HW7.exe"
+  "HW7.exe.manifest"
+  "libHW7.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

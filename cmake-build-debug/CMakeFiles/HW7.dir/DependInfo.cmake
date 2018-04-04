@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/ken/git/EE553GroupHw/main.cpp" "/Users/ken/git/EE553GroupHw/cmake-build-debug/CMakeFiles/HW7.dir/main.cpp.o"
+  "E:/git2/EE553GroupHw/main.cpp" "E:/git2/EE553GroupHw/cmake-build-debug/CMakeFiles/HW7.dir/main.cpp.obj"
   )
-set(CMAKE_CXX_COMPILER_ID "AppleClang")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
